@@ -5,8 +5,8 @@ All about our team's graduation project
 ## Team Members
 
 ### AI Team:
-- Abdelahmed Elagamy (Ai) - https://github.com/AbdelhamidAlajmi
-- Khaled Waleed (Ai) - https://github.com/Khaled-3
+- Abdelahmed Elagamy (Ai) -   [AbdelhamidAlajmi](https://github.com/AbdelhamidAlajmi)
+- Khaled Waleed (Ai) -   [Khaled-3](https://github.com/Khaled-3)
 
 ### Backend Team:
 - Ebrahim Mohamed (Backend Developer) - [IbrahimAmasha1412](https://github.com/IbrahimAmasha1412)
