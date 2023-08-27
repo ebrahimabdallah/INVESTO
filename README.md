@@ -17,9 +17,8 @@ All about our team's graduation project
 - Mohsen Fouda (Android Developer)
 - Ahmed Hamza (Android Developer) - [ahmed-hamza-eita](https://github.com/ahmed-hamza-eita)
 
-### Frontend Team:
+### Frontend :
 - Mohamed Khadra (Frontend Developer) - [mokhadra123](https://github.com/mokhadra123)
 
 ### UI/UX:
-- Taha Mohamed
 - Taha Mohamed
