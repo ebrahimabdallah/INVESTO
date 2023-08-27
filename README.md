@@ -11,7 +11,7 @@ All about our team's graduation project
 ### Backend Team:
 - Ebrahim Mohamed (Backend Developer) - [IbrahimAmasha1412](https://github.com/IbrahimAmasha1412)
 - Ebrahim Reda (Backend Developer) - [ebrahimabdallah](https://github.com/ebrahimabdallah)
-- Khaled Gaafar (Backend Developer) - [KhaledGaafar](https://github.com/KhaledGaafar)
+- Khaled Mahmoud Gaafar (Backend Developer) - [KhaledGaafar](https://github.com/KhaledGaafar)
 
 ### Mobile Team:
 - Mohsen Fouda (Android Developer)
