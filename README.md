@@ -22,3 +22,7 @@ All about our team's graduation project
 
 ### UI/UX:
 - Taha Mohamed
+
+# Repository
+- [Backend](https://github.com/ebrahimabdallah/Graduation-Project.git)
+- [Frontend](https://github.com/mokhadra123/investo-frontend)
